@@ -5,33 +5,35 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is about designing and maintaining software applications, which can be done by using programming languages to create software applications that bring solutions to users. The importance of software engineering in technology is that it makes technology easier for its users through its innovative designs that are faster and more flexible to be used in different avenues without any impediments. Therefore, it promotes productivity and efficiency.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+The three key milestones in the evolution of software engineering are: 1) Object-Oriented Programming. This milestone revolutionalised software engineering by organising code into reusable objects. This improved software maintenance and reusability and made development more efficient. 2) Software engineering, the coining of this term, came with the deterrence of many software crises, such as high costs, delays and failures due to the lack of structured development processes. 3) 2001 the Agile Manifesto existed, emphasising flexibility and customer collaboration. This transformation made software engineering more adaptive to changing requirements and fostered delivery practices.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+The software development life cycle phases entail Planning by defining the project goals, timeline and budget. Requirement analysis should gather and document functional and non-functional requirements from stakeholders. Design by defining the different types of designs, high and low level. Also, developers write codes based on design specifications. Test by ensuring that the software meets the requirements and functions correctly. Deploy by releasing the software for end-users as a full rollout or in stages. Maintain the software by ensuring that it is compatible with new technologies.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+A waterfall methodology is a linear application development model that uses an uncompromising phase; when one phase ends, the next begins. The steps occur in sequences; if the model is unmodified, developers cannot return to previous steps. Agile methodology is a project management approach that focuses on collaboration and adaptability. It involves breaking the project into phases and emphasises continuous collaboration and improvements. The similarities of these methodologies are that they both aim to produce high-quality software applications. Secondly, they perform the same activities, including collecting requirements, designing, developing, testing and deploying. Examples where these methodologies would be appropriate to be applied: Waterfall methodology can be like an aeroplane, and Agile methodology can be used in mobile applications.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software developers design, build, deploy and maintain software using many different tools and skills. Quality Assurance Engineer ensures that service meets the quality standards before it is released. They document and and design test plans, and report defects to software developers by using bug tracking systems. Project manager in software engineering is a person who plans, organises, and oversees the completion of the project according to the clients needs. The project manager uses his or her leadership skills and technical knowledge to make sure that software team meets the clients requirements.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+Intergrated Development Environment is a software application that provides comprehensive facilities for software development. It helps programmers to develop software code efficiently 
+by combining various tools needed for software such as code editor, debugger and more all in one interface. Version Control System is a tool that tracks achanges made on files over time and allows users to revert previous versions, and collaborate on projects by managing different edits. The importance of Intergrated Development Environments and Version Control Systems in software development process is to allow for efficient collaboration within teams by enabling multiple developers to work on different aspects of a project concurrently and ensuring code quality throughout the development process. An examle of IDE is the Visual studio which has local supports for numerous languages. It can be used to develop web-based and local applications. Git is an example of a version control system as the developers can use it to track changes made to the code, and it allows collaboration to be effective by ensuring that everyone is working on the latest version of the code and this prevents conflict and promotes consistency across the project.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+They are faced with issues such as having to keep up with new programming languages and tools, also the issues of security isssues from hackers, and debugging is time consuming. They can try to keep updated to latest research and continue learning by adapting to new technologies.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit Testing focuses on individual units codes in isolationand verifies its correctness based on specific inputs and outputs. Its importance is that it detects bugs early in within an individual component, allowing faster and easy correctionsand providing stronger foundations for further testing. Intergration Testing It tets how different unit of codes interact and communicate with each other when combined, it than verify the fuency of data between modules. Its importance is to identify issues that arise when different components are intergrated. For example, interface problems or data inconsistencies. System Testing evaluates the complete software system including its functionality, perfomance, security, and compatibility across different environments. Its importance is is assessing the overall system behaviour and identifying major issues that ay not be apparent in low-level testing. Lastly, Acceptance Testing verifies that the software meets the user's requirements and business needs, often involving real world user scenarios and feedback. Its importance is to ensure that the software is usable and valuable to the intended audiencebefore deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt Engineering is the process of writing explicit instructions to AI models for it to produce specif responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+An example of a vague response is: What is an equilibrium? This is a vague prompt because the term "equilibrium" is defined differently in various contexts suc as physics, economics and biology. Therefore, an improved prompt would be: Explain market equilibrium in economics.
